@@ -1,0 +1,2 @@
+Please rate the action proposed in the following text in face of the situation it describes. Use a scale from 1 to 7, where 1 means you strongly disagree and 9 means you strongly agree.
+The text is:
